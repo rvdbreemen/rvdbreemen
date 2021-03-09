@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to my repo on Github
+My name is Robert van den Breemen and I am currently working on the development of a project called OTGW-firmware. Just jump in and find out.
 
 <!--
 **rvdbreemen/rvdbreemen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
